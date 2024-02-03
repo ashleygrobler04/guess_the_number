@@ -1,0 +1,11 @@
+{
+  "Start": "begin",
+  "Exit": "verlaat",
+  "welcome to guess the number": "welkom by raai die nommer",
+  "game over": "speletjie oor: Die rekenaar het {guess} geraai.",
+  "input numbers": "Sleutel asseblief 'n nommber tussen 1 en 50 in.",
+  "tries": "jy het {tries} kanse oor",
+  "too low": "Jou raai skoot is te laag",
+  "too high": "Jou raai skoot is te hoog",
+  "congrats": "Geluk! Die rekenaar het {computerGuess} geraai en jy het {yourGuess} geraai."
+}

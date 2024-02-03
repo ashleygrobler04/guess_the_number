@@ -1,0 +1,11 @@
+{
+  "Start": "start",
+  "Exit": "exit",
+  "welcome to guess the number": "welcome to guess the number",
+  "game over": "game over. The computer guessed {guess}",
+  "input numbers": "please enter a number from 1 to 50",
+  "tries": "you have {tries} tries remaining",
+  "too low": "Your guess is too low.",
+  "too high": "Your guess is too high",
+  "congrats": "Goncratulations! You guessed the correct number. The computer guessed {computerGuess} and you guessed {yourGuess}"
+}
